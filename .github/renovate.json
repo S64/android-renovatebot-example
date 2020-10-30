@@ -1,0 +1,13 @@
+{
+    "enabled": true,
+    "branchPrefix": "renovate/",
+    "separateMajorMinor": false,
+    "packageRules": [
+        {
+            "packagePatterns": [ "*" ],
+            "groupName": "all dependencies",
+            "groupSlug": "all",
+            "automerge": false
+        }
+    ]
+}
