@@ -6,6 +6,8 @@
     "schedule": "after 3:35pm",
     "packageRules": [
         {
+            "enabled": true,
+            "managers": [ "gradle", "maven" ],
             "packagePatterns": [ "*" ],
             "groupName": "all dependencies",
             "groupSlug": "all",
