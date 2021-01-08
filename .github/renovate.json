@@ -3,7 +3,7 @@
     "branchPrefix": "renovate/",
     "separateMajorMinor": false,
     "timezone": "Asia/Tokyo",
-    "schedule": "after 2:32pm",
+    "schedule": "after 2:36pm",
     "packageRules": [
         {
             "enabled": true,
