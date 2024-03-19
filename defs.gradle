@@ -1,3 +1,3 @@
 project.ext {
-    kotlin_version = '1.3.70' // わざと古くしてる
+    kotlin_version = '1.9.23' // わざと古くしてる
 }
